@@ -3,7 +3,7 @@
     {
       "image": "https://pbs.twimg.com/profile_images/1692883892385058816/QnRx2BG5_normal.jpg",
       "group": "",
-      "id": "3237309365", 
+      "id": "3237309365",
       "tooltip": "",
       "level": 1,
       "profile_image_url": "https://pbs.twimg.com/profile_images/1692883892385058816/QnRx2BG5_normal.jpg",
@@ -21,13 +21,85 @@
       "name": "~disden-talhes",
       "screen_name": "GlueWear",
       "description": "something something Socrates"
+    },
+    {
+      "image": "https://pbs.twimg.com/profile_images/1742108185673052160/ugN7-CdD_normal.jpg",
+      "group": "",
+      "id": "ropirito",
+      "tooltip": "",
+      "level": null,
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1742108185673052160/ugN7-CdD_normal.jpg",
+      "name": "∿ Ropirito (0commoDTE)",
+      "screen_name": "ropirito",
+      "description": "AI Engineer | pet rocks @ropAIrito & @tee_hee_he | Researcher In-Residence @NousResearch | @chicagobooth Finance gSvHfmfYFCwuFBvn3ctxAsp9oJkoyD2NERyjuy6m2bu"
+    },
+    {
+      "image": "https://pbs.twimg.com/profile_images/1552780848931278848/hAT4F8Eu_normal.jpg",
+      "group": "",
+      "id": "the_aww_org",
+      "tooltip": "",
+      "level": null,
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1552780848931278848/hAT4F8Eu_normal.jpg",
+      "name": "🇬🇧 🍙🧋-o-🍔🍙 🇮🇱 (e/acc)",
+      "screen_name": "the_aww_org",
+      "description": ""
+    },
+    {
+      "image": "https://pbs.twimg.com/profile_images/1852878608173539328/pgeDfJkU_normal.jpg",
+      "group": "",
+      "id": "0PointAlchemy",
+      "tooltip": "",
+      "level": null,
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1852878608173539328/pgeDfJkU_normal.jpg",
+      "name": "0.A",
+      "screen_name": "0PointAlchemy",
+      "description": "| Spiritual Alchemy Nicotine-Sacrifice Account ❤️‍🔥 | 🫠AI/LLM Frontier Explorer | 🔮 Soul | Perspective of Source | Historically allergic to the void,"
+    },
+    {
+      "image": "https://pbs.twimg.com/profile_images/1595755051552841728/9jBzGtmN_normal.jpg",
+      "group": "",
+      "id": "zeroXmusashi",
+      "tooltip": "",
+      "level": null,
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1595755051552841728/9jBzGtmN_normal.jpg",
+      "name": "0xmusashi",
+      "screen_name": "zeroXmusashi",
+      "description": "technology & design"
+    },
+    {
+      "image": "https://pbs.twimg.com/profile_images/1849109459315875840/LM7KQzNi_normal.jpg",
+      "group": "",
+      "id": "AaronBergman18",
+      "tooltip": "",
+      "level": null,
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1849109459315875840/LM7KQzNi_normal.jpg",
+      "name": "Aaron Bergman  ⏸️ (in that order)",
+      "screen_name": "AaronBergman18",
+      "description": ":suffering: | :EA, AI alignment, decoupling, R, cringe, amateur pharmacology + programming | Georgetown ‘22 (math+econ+phil) | Career status: :man_bowing:"
+    },
+    {
+      "image": "https://pbs.twimg.com/profile_images/1540463790679941121/4qprMgkO_normal.jpg",
+      "group": "",
+      "id": "motphysics",
+      "tooltip": "",
+      "level": null,
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1540463790679941121/4qprMgkO_normal.jpg",
+      "name": "acorbo",
+      "screen_name": "motphysics",
+      "description": "There are only two things to be done; that which is necessary and the impossible."
+    },
+    {
+      "image": "https://pbs.twimg.com/profile_images/1846709618589810688/LGlZy-mv_normal.jpg",
+      "group": "",
+      "id": "adheeeep",
+      "tooltip": "",
+      "level": null,
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1846709618589810688/LGlZy-mv_normal.jpg",
+      "name": "adheep",
+      "screen_name": "adheeeep",
+      "description": "ai + neuroscience student // musician"
     }
   ],
   "links": [
-    {
-      "source": "3237309365",
-      "target": "New",
-      "relationship": "Oleg Firer was arrested for mortgage fraud when he attempted to buy G & G and Victor and Natalia Wolf's former home. Later public records show he eventually succeded in purchasing the company and the home."
-    }
   ]
 }
