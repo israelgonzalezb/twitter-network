@@ -12,17 +12,6 @@
       "description": ""
     },
     {
-      "image": "",
-      "group": "Firer",
-      "id": "New",
-      "tooltip": "",
-      "level": 2,
-      "profile_image_url": "https://pbs.twimg.com/profile_images/1857802203831947264/ZHUxSaHa_normal.jpg",
-      "name": "~disden-talhes",
-      "screen_name": "GlueWear",
-      "description": "something something Socrates"
-    },
-    {
       "image": "https://pbs.twimg.com/profile_images/1742108185673052160/ugN7-CdD_normal.jpg",
       "group": "",
       "id": "ropirito",
@@ -101,5 +90,12 @@
     }
   ],
   "links": [
+    { "source": "3237309365", "target": "ropirito", "relationship": "Follows" },
+    { "source": "3237309365", "target": "the_aww_org", "relationship": "Follows" },
+    { "source": "3237309365", "target": "0PointAlchemy", "relationship": "Follows" },
+    { "source": "3237309365", "target": "zeroXmusashi", "relationship": "Follows" },
+    { "source": "3237309365", "target": "AaronBergman18", "relationship": "Follows" },
+    { "source": "3237309365", "target": "motphysics", "relationship": "Follows" },
+    { "source": "3237309365", "target": "adheeeep", "relationship": "Follows" }
   ]
 }
