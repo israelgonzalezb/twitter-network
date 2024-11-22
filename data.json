@@ -14,7 +14,7 @@
     {
       "image": "",
       "group": "Firer",
-      "id": "New", // Still recommend changing this to a real ID
+      "id": "New",
       "tooltip": "",
       "level": 2,
       "profile_image_url": "https://pbs.twimg.com/profile_images/1857802203831947264/ZHUxSaHa_normal.jpg",
@@ -26,7 +26,7 @@
   "links": [
     {
       "source": "3237309365",
-      "target": "New", // Again, use a persistent ID if possible
+      "target": "New",
       "relationship": "Oleg Firer was arrested for mortgage fraud when he attempted to buy G & G and Victor and Natalia Wolf's former home. Later public records show he eventually succeded in purchasing the company and the home."
     }
   ]
